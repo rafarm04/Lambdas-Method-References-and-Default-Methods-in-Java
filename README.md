@@ -2,7 +2,7 @@
 ### Objective:
 To understand and apply Java 8 features such as Lambda expressions, Method References, and Default methods in interfaces by creating a simple application.
 
-Context:
+### Context:
 You are tasked with developing a small application to manage a collection of books in a library. Each book has a title, author, and publication year. You will utilize Lambdas and Method References for sorting and filtering the book collection, and Default methods for additional functionality in the book interface.
 
 ## Team:
